@@ -1,4 +1,4 @@
-
+#This returns the last digit of the sum of n fibonacci numbers
 
 def fib(x):
     if x<= 1: return x
